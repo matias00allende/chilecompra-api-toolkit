@@ -103,6 +103,11 @@ observando respuestas HTTP 429/403.
 - `requests`, `python-dotenv` (ver [`requirements.txt`](requirements.txt))
 - `playwright` + navegador Chromium, solo para `leer_ficha_licitacion.py`
 
+## Autor
+
+Matías Allende
+[LinkedIn](https://www.linkedin.com/in/matiasallende/) · matias.allende.contreras@gmail.com
+
 ## Licencia
 
 MIT. Ver [LICENSE](LICENSE). El corpus de jurisprudencia tiene su propia nota de licencia en
