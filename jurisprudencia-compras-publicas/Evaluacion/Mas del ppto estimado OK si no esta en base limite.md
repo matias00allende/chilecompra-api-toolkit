@@ -1,0 +1,223 @@
+---
+fuente_pdf: Evaluacion\Mas del ppto estimado OK si no esta en base limite.pdf
+categoria: Evaluacion
+numero_documento: null
+anio: null
+calidad_extraccion: OPTIMA
+metodo: markitdown
+---
+
+11/4/2017 www.contraloria.cl/LegisJuri/DictamenesGeneralesMunicipales.nsf/FormImpresionDictamen?OpenForm&UNID=8D707042C143C62F03257EC80066D…
+
+Contraloría General de la República
+División de Coordinación e Información Jurídica
+
+Nuevo
+Fecha emisión 15­09­2015
+
+NO
+
+Carácter NNN
+
+Dictamen
+Estado
+NumDict
+Orígenes
+
+073638N15
+Reactivado
+73638
+DIR
+
+Referencias
+198309/2015, 208349/2015
+
+Decretos y/o
+Resoluciones
+­
+
+Abogados
+COG
+
+Destinatarios
+Nolberto Sandoval Castillo
+
+Texto
+No se observa la irregularidad denunciada en el desarrollo de la licitación pública que se indica.
+
+Acción
+Aplica dictámenes 83240/2014, 39812/2013, 55419/2015, 68494/2012, 77096/2013
+
+Fuentes Legales
+ley 18883 art/156 inc/1, ley 18883 art/88 A
+
+Descriptores
+Contratos administrativos, obras públicas, licitaciones
+
+Texto completo
+N° 73.638 Fecha: 15­IX­2015
+
+Se ha dirigido a esta Contraloría General don Nolberto Sandoval Castillo,
+secretario municipal de la Municipalidad de San José de Maipo, dando cuenta
+de eventuales irregularidades producidas en el tercer llamado de la licitación
+del proyecto de inversión “Ampliación de red de agua potable y alcantarillado,
+San José de Maipo” ­convocada por esa entidad edilicia en cumplimiento del
+convenio mandato celebrado para tales efectos con el Gobierno Regional
+Metropolitano de Santiago (GORE)­, consistentes, en síntesis, en que la
+comisión de evaluación habría sido conminada a reevaluar una oferta que
+previamente había declarado inadmisible.
+
+Asimismo, denuncia una supuesta persecución laboral de la que sería objeto
+por parte del alcalde de ese municipio, consistente, en lo esencial, en la
+instrucción de un sumario administrativo en el que tendría la calidad de
+inculpado.
+
+Sobre el particular, y teniendo presente lo informado, a requerimiento de esta
+Entidad Fiscalizadora, por las reparticiones públicas nombradas, resulta
+menester señalar que de acuerdo a lo estipulado, en lo pertinente, en la
+cláusula tercera del mencionado convenio mandato ­aprobado mediante la
+resolución exenta N° 538, de 2013, del GORE, y por el decreto alcaldicio N°
+386, de ese año, del antedicho municipio­, “Corresponderá al Gobierno
+Regional en su calidad de organismo mandante: a) Proporcionar el
+financiamiento del proyecto, con cargo a los recursos del Presupuesto
+Regional de la Región Metropolitana (F.N.D.R. Ley de Presupuestos del
+Sector Público)”, consultando un costo total de M$ 3.030.366 para obras
+civiles.
+
+En seguida, que la cláusula quinta de ese pacto prevé, en lo que atañe, que
+“La Unidad Técnica procederá a la contratación del proyecto conforme a las
+normas vigentes, considerando la premura y urgencia requerida para su
+
+http://www.contraloria.cl/LegisJuri/DictamenesGeneralesMunicipales.nsf/FormImpresionDictamen?OpenForm&UNID=8D707042C143C62F03257EC80066D… 1/3
+
+11/4/2017 www.contraloria.cl/LegisJuri/DictamenesGeneralesMunicipales.nsf/FormImpresionDictamen?OpenForm&UNID=8D707042C143C62F03257EC80066D…
+
+oportuno y correcto desarrollo. Las Bases Administrativas y el o los contratos
+consideraran las normas presupuestarias propias de la inversión de fuente
+regional”.
+
+Asimismo, que las bases administrativas de la licitación en estudio ­aprobadas
+por el decreto alcaldicio N° 740, de 2014­ previenen, en el punto 6 de sus
+normas especiales, que “El presupuesto disponible, para las obras civiles, de
+acuerdo a lo establecido en la Resolución Exenta N° 538 de fecha 15.05.2013,
+es igual a $3.030.366.000”.
+
+Por último, que el punto 10.2, de esas normas especiales prescribe, en su
+párrafo tercero, que “No podrá proponerse la adjudicación de ofertas que
+superen en más de un 10% el presupuesto disponible declarado en las
+presentes Bases. Las propuestas de adjudicación sobre ofertas que oscilen
+entre el presupuesto disponible y hasta por un monto que superen en un 10%
+dicho presupuesto, solo podrán adjudicarse si el Mandante cuenta con dichos
+recursos”.
+
+Puntualizado lo anterior, es preciso consignar que del análisis de los
+antecedentes tenidos a la vista se desprende que con fecha 25 de marzo de
+2015, la comisión evaluadora del certamen de que se trata propuso la
+inadmisibilidad de la única oferta aceptada, presentada por la empresa
+Ingeniería y Construcción Puerto Principal S.A., “por contravenir abiertamente
+lo dispuesto en las Bases de licitación”, toda vez que su monto ­ascendente a
+$3.328.867.714, IVA incluido­ excedía el presupuesto disponible, y que, en
+razón de lo anterior, solicitó que se declarara desierta la licitación y que se
+autorizara a realizar un nuevo llamado.
+
+En seguida, que frente a lo anterior, el alcalde del singularizado municipio, por
+medio de sus oficios Nos 214 y 329, de esa anualidad, solicitó un suplemento
+presupuestario ­del 10% del monto disponible­ al GORE, organismo que a
+través de su División de Análisis y Control de Gestión respondió, por su oficio
+N° 1.341, del mismo año, y en lo que interesa, que era posible “acceder a
+fondos adicionales de hasta un 10% del monto recomendado del proyecto”,
+solicitando para ello que esa entidad edilicia “haga llegar la propuesta de
+adjudicación de la comisión de evaluación de la licitación correspondiente con
+la solicitud explícita de mayores recursos”.
+
+Así, con fecha 21 de abril de 2015, la mencionada comisión procedió a la
+evaluación de la aludida oferta, proponiendo su adjudicación, indicando que
+“la diferencia entre el monto ofertado y el monto disponible del proyecto es de
+$298.501.714, lo que equivale a un 9,85% del monto disponible, es decir, no
+supera el 10% de acuerdo a lo estipulado en el Ord. 1341 del GORE”.
+
+Finalmente, se observa que el municipio, mediante su oficio N° 273, de 2015,
+solicitó recursos complementarios por el monto precedentemente consignado,
+y que luego adjudicó la licitación pública a través del decreto alcaldicio N° 293,
+de esa anualidad, en la suma de $3.328.867.714, previa autorización del
+GORE, otorgada en su oficio N° 1.816, de ese año.
+
+Pues bien, en el contexto reseñado, cabe señalar que del examen de los
+términos en los que se fijó el presupuesto en las bases de licitación, fluye que
+dicha suma constituye un monto referencial o estimativo, y no un límite de
+recursos disponibles para la contratación, contemplándose expresamente la
+posibilidad de suplementar esos fondos, con el límite determinado en ese
+pliego rector.
+
+De este modo, la circunstancia de haberse presentado una oferta que superó
+tal estimación no constituye por sí misma una circunstancia que obligue a la
+Administración a declararla inadmisible o a llamar a una nueva convocatoria
+(aplica criterio contenido en el dictamen N° 83.240, de 2014, de este origen).
+
+En mérito de lo expuesto, y considerando, además, que la propuesta
+adjudicada no superó en más de un 10% el presupuesto disponible, conforme
+a lo previsto en el citado punto 10.2 de las bases administrativas, esta Sede
+de Control no advierte reproche que formular en torno a lo obrado por la
+Municipalidad de San José de Maipo sobre la materia.
+
+Por otra parte, en cuanto a la persecución laboral denunciada, cumple con
+anotar que no se han aportado elementos que den cuenta de ello, siendo
+
+http://www.contraloria.cl/LegisJuri/DictamenesGeneralesMunicipales.nsf/FormImpresionDictamen?OpenForm&UNID=8D707042C143C62F03257EC80066D… 2/3
+
+11/4/2017 www.contraloria.cl/LegisJuri/DictamenesGeneralesMunicipales.nsf/FormImpresionDictamen?OpenForm&UNID=8D707042C143C62F03257EC80066D…
+
+pertinente puntualizar que, a diferencia de lo que parece entender el
+recurrente, la reactivación de un sumario administrativo anterior ­ordenado
+instruir por el decreto alcaldicio N° 34, de 2014, para indagar eventuales
+irregularidades que habrían tenido lugar en el primer llamado de la licitación
+pública en comento y que motivaron su invalidación­, en el que tendría la
+calidad de inculpado, no constituye un antecedente que, por sí, permita
+concluir tal circunstancia.
+
+Sin desmedro de lo anterior, y en relación con la solicitud planteada por el
+interesado, en orden a que esta Entidad de Control asuma la prosecución del
+referido proceso disciplinario, cabe señalar que esta ejerce sus funciones de
+control de acuerdo a planes y programas previamente elaborados, que
+abarcan las materias más relevantes en un estricto orden de prioridades
+según su trascendencia jurídica, económica y social, cuya preparación y
+desarrollo requiere de importantes recursos humanos, financieros y materiales
+que, por su escasez, necesariamente deben ser aplicados con cuidadoso
+resguardo para asegurar una fiscalización eficiente y eficaz.
+
+En ese plano de ideas, debe señalarse que, en este caso, los elementos
+aportados por el recurrente no ameritan acceder a lo solicitado (aplica el
+criterio contenido, entre otros, en el dictamen N° 39.812, de 2013, de este
+origen).
+
+Lo anterior, sin perjuicio de hacer presente que, si al término del sumario de
+que se trata, el afectado considera que este adolece de vicios de legalidad,
+puede interponer ante esta Sede Contralora el recurso especial de
+reclamación establecido en el artículo 156, inciso primero, de la ley N° 18.883,
+Estatuto Administrativo para Funcionarios Municipales (aplica el dictamen N°
+55.419, de 2015, de este origen).
+
+Asimismo, y en lo que atañe a la suspensión de dicho sumario administrativo
+que, en subsidio, pide el recurrente, es atingente anotar que aquel es un
+proceso reglado en el que no caben otras instancias o trámites que los
+previstos en la normativa aplicable, razón por la cual no procede acceder a lo
+peticionado (aplica el dictamen N° 68.494, de 2012, de esta Contraloría
+General).
+
+Por último, es pertinente consignar que la protección que invoca el reclamante
+­consagrada en los artículos 88 A y siguientes del precitado estatuto, normas
+introducidas por la ley N° 20.205­, no resulta aplicable tratándose de sumarios
+que se encuentren en tramitación a la fecha en que se efectúa la respectiva
+denuncia (aplica criterio contenido en el dictamen N° 77.096, de 2013, de esta
+Contraloría General).
+
+Transcríbase a la Municipalidad de San José de Maipo y al Gobierno Regional
+Metropolitano de Santiago.
+
+Saluda atentamente a Ud.,
+
+Patricia Arriagada Villouta
+Contralor General de la República
+Subrogante
+
+http://www.contraloria.cl/LegisJuri/DictamenesGeneralesMunicipales.nsf/FormImpresionDictamen?OpenForm&UNID=8D707042C143C62F03257EC80066D… 3/3

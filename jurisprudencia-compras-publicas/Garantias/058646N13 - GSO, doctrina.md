@@ -1,0 +1,144 @@
+---
+fuente_pdf: Garantias\058646N13 - GSO, doctrina.pdf
+categoria: Garantias
+numero_documento: null
+anio: null
+calidad_extraccion: OPTIMA
+metodo: markitdown
+---
+
+Base de Dictámenes
+mun, licitación pública, garantía de seriedad de la oferta, vigencia
+NÚMERO DICTAMEN FECHA DOCUMENTO
+058646N13 10-09-2013
+NUEVO: REACTIVADO:
+NO SI
+RECONSIDERADO
+RECONSIDERADO: PARCIAL:
+NO NO
+ACLARADO: ALTERADO:
+NO NO
+APLICADO: CONFIRMADO:
+SI NO
+COMPLEMENTADO: CARÁCTER:
+NO NNN
+DICTAMENES RELACIONADOS
+Aplica dictámenes 38566/2013, 14005/2011, 78872/2012, 45946/2002, 24337/2002
+| Acción | Dictamen | Año  |
+| ------ | -------- | ---- |
+| Aplica | 038566   | 2013 |
+| Aplica | 014005   | 2011 |
+| Aplica | 078872   | 2012 |
+| Aplica | 045946   | 2002 |
+| Aplica | 024337   | 2002 |
+FUENTES LEGALES
+ley 19886 art/11 dto 250/2004 hacie art/22 num/6 inc/2 dto 250/2004 hacie art/31 inc/1
+MATERIA
+Rechaza reclamo sobre incumplimiento de requisito de vigencia de boleta de garantía de
+seriedad de la oferta por parte de adjudicataria de licitación pública que indica.
+DOCUMENTO COMPLETO
+N° 58.646 Fecha: 10-IX-2013
+
+Se ha dirigido a esta Contraloría General el señor Javier Alemany Martínez, representante
+legal de la sociedad Mobiliario F y R Ltda., reclamando en contra de la Municipalidad de
+Peñaflor, por cuanto la licitación pública denominada “Suministro e Instalación de Máquinas
+de Ejercicios en Diversos Sectores de la Comuna de Peñaflor, Segunda Etapa, II Llamado” -
+ID 2732-14-LP13-, fue adjudicada a una empresa que no habría dado cumplimiento al
+requisito de vigencia de la boleta de garantía de seriedad de la oferta, contemplado en las
+bases administrativas respectivas.
+Requerida de informe, esa entidad edilicia señaló que, tal como sostiene el recurrente, la
+aludida caución fue extendida por un plazo inferior al exigido en el pliego de condiciones, sin
+perjuicio de lo cual, afirma, dicho error no habría producido efecto alguno, pues la
+mencionada boleta se encontraba vigente al momento de emitirse el decreto de
+adjudicación pertinente, además de no haber alterado la evaluación llevada a cabo, pues el
+hecho se detectó con posterioridad a la dictación de aquel.
+Agrega que, en todo caso, no correspondería que el asunto planteado sea conocido por
+este Organismo de Control, por tratarse de una materia de competencia del Tribunal de
+Contratación Pública.
+Como cuestión previa, y en lo relativo a la alegación formulada por el referido municipio
+acerca de la incompetencia de esta Contraloría General, corresponde indicar que acorde
+con lo manifestado en el dictamen N° 38.566, de 2013, entre otros, esta no resulta
+procedente, pues las materias de competencia del anotado tribunal no han sido sustraídas
+del ámbito sobre el cual debe esta Entidad de Fiscalización ejercer sus potestades, salvo
+las excepciones que expresamente contempla el ordenamiento jurídico, cuyo no es el caso
+de la especie.
+Precisado lo anterior, cabe hacer presente que el artículo 11 de la ley N° 19.886, de Bases
+sobre Contratos Administrativos de Suministro y Prestación de Servicios, prevé que la
+respectiva entidad licitante requerirá, en conformidad al reglamento, la constitución de las
+garantías que estime necesarias para asegurar la seriedad de las ofertas presentadas y el
+fiel y oportuno cumplimiento del contrato definitivo, en la forma y por los medios que lo
+establezcan las respectivas bases de la licitación.
+A su vez, el decreto N° 250, de 2004, del Ministerio de Hacienda, que aprueba el
+reglamento de la citada ley, dispone, en el inciso segundo del numeral 6° de su artículo 22,
+que las mencionadas cauciones tienen por objeto resguardar el correcto cumplimiento, por
+parte del proveedor oferente y lo adjudicado, de las obligaciones emanadas de la oferta y/o
+del contrato; mientras que en el inciso primero de su artículo 31, determina que cuando se
+solicite garantía de seriedad de la oferta, las bases deberán establecer el monto, plazo de
+vigencia y si debe expresarse en pesos chilenos, unidades de fomento o en otra moneda o
+unidad reajustable.
+Por su parte, el numeral 5.2., letra a), de las bases administrativas generales del
+procedimiento concursal que se analiza, al regular la modalidad de la licitación, indica, en lo
+que interesa, que el sobre denominado documentos anexos debe contener una boleta
+bancaria a la vista e irrevocable, que garantice la seriedad de la oferta tomada a la orden
+de la unidad técnica, con un plazo de vigencia de a lo menos 30 días (corridos) a contar de
+la fecha de apertura de la propuesta.
+Ahora bien, de los antecedentes revisados, aparece que la apertura de las ofertas
+
+Ahora bien, de los antecedentes revisados, aparece que la apertura de las ofertas
+presentadas se realizó el día 6 de marzo de 2013, y que la caución de la empresa a quien
+en definitiva se adjudicó la licitación de que se trata, pese a cubrir un período de treinta
+días como señalaron las respectivas bases concursales, tenía como plazo de duración solo
+hasta el 12 de ese mes y año, es decir, no cumplía con la exigencia referida
+precedentemente.
+Además, consta que la Municipalidad de Peñaflor, ese mismo día 12 de marzo de 2013,
+procedió a adjudicar la propuesta de la especie al oferente respecto de quien se reclama, a
+través del decreto N° 2.087, para luego, al día siguiente de tal actuación, esto es, el 13 de
+ese mes y año, firmar el contrato pertinente, que fuera aprobado en igual data, mediante
+el decreto N° 2.163, de dicha entidad edilicia.
+En este orden de ideas, conviene recordar que la jurisprudencia administrativa de este
+Órgano de Control contenida, entre otros, en el dictamen N° 14.005, de 2011, ha
+precisado que la solución de los problemas que se presenten en los procesos licitatorios en
+relación con las garantías exigidas, y la interpretación de las normas involucradas, debe
+considerar, sobre la base de los principios de estricta sujeción a las bases y de igualdad de
+los proponentes, un criterio finalista, que trascienda una excesiva rigidez formal, en aras
+de cumplir el objetivo que se pretende con el establecimiento de esos requisitos.
+Asimismo, cabe hacer presente que según se indicara en el dictamen N° 78.872, de
+2012, el objeto fundamental de la garantía de seriedad de la oferta es respaldar la
+actuación de un oferente hasta el momento que firma el contrato.
+Agrega dicho pronunciamiento que, tal como lo ha sostenido la doctrina nacional, en
+particular, el autor Claudio Moraga Klenner, en su libro Contratación Administrativa, Editorial
+Jurídica de Chile, 2012, “la garantía de seriedad de la oferta cumple múltiples funciones
+dentro del procedimiento administrativo, a saber: (i) habilita la admisión del licitador o
+proponente en el acto de presentación de ofertas; (ii) asegura la seriedad del ofrecimiento
+que hace cada proponente o participante; (iii) garantiza que se cumplirá con la propuesta
+formulada; (iv) cauciona que se celebrará el contrato licitado, y (v) asegura que el
+proponente mantendrá el precio durante el plazo establecido en el pliego de condiciones”.
+En virtud de las consideraciones anotadas, y teniendo en cuenta que, en la especie, la
+empresa adjudicataria mantuvo los términos de su oferta, firmándose, en definitiva, el
+contrato respectivo, sin que se advierta que la manera en que se extendió la caución por la
+que se reclama haya perjudicado al resto de los proponentes, respetándose su libre
+concurrencia e igualdad, debe concluirse que tal circunstancia no constituye un error de
+una magnitud tal que afecte la validez de la licitación pública en comento.
+Lo anterior, por cierto, es sin perjuicio de las medidas que deba adoptar la Municipalidad de
+Peñaflor con el objeto de evitar que, en lo sucesivo, se repitan situaciones como la descrita,
+pues es esa entidad edilicia quien debe velar porque se respeten las condiciones
+establecidas en las bases administrativas de los procedimientos concursales que convoque,
+toda vez que estas son la principal fuente de derechos y obligaciones tanto de la
+Administración como de los licitantes (aplica criterio contenido en el dictamen Nº 45.946,
+de 2002).
+Finalmente, y a mayor abundamiento, se ha estimado pertinente recordar que, según lo
+ha precisado, entre otros, el dictamen N° 24.337, de 2002, de este origen, la potestad
+
+ha precisado, entre otros, el dictamen N° 24.337, de 2002, de este origen, la potestad
+invalidatoria -que correspondería ejercer si se acogiera el reclamo del peticionario- tiene
+como límite aquellas situaciones jurídicas consolidadas sobre la base de la confianza de los
+particulares en la Administración, puesto que la seguridad jurídica de tal relación amerita su
+amparo.
+Ramiro Mendoza Zúñiga
+Contralor General de la República
+
+
+---
+<!-- ALERTA_VIGENCIA_DTO250 -->
+> [!WARNING] Cita normativa desactualizada
+> Este documento cita el Decreto Supremo N° 250, de 2004, del Ministerio de Hacienda (reglamento de la Ley N° 19.886), que fue **dejado sin efecto** por el **Decreto N° 661, de 2024**, del mismo ministerio, reglamento actualmente vigente. El criterio interpretativo de este dictamen puede seguir siendo aplicable, pero antes de citarlo en un caso actual **verificar la disposición correlativa en el Decreto 661/2024**, ya que la numeración de artículos cambió. Ver `INDICE.md`, sección 'ALERTA DE VIGENCIA NORMATIVA'.

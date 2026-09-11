@@ -1,0 +1,250 @@
+---
+fuente_pdf: Grandes Compras\GC - Inv. solo por MP, no excluir por criterios q no existen en IC.pdf
+categoria: Grandes Compras
+numero_documento: null
+anio: null
+calidad_extraccion: OPTIMA
+metodo: markitdown
+---
+
+Base Dictámenes
+
+Selec, licitación, grandes compras, invitación fuera del sistema, criterios de
+evaluación, bases
+
+NÚMERO DICTAMEN
+073049N14
+NUEVO:
+SI
+RECONSIDERADO:
+NO
+ACLARADO:
+NO
+APLICADO:
+NO
+COMPLEMENTADO:
+NO
+
+FECHA DOCUMENTO
+23-09-2014
+REACTIVADO:
+NO
+RECONSIDERADO PARCIAL:
+NO
+ALTERADO:
+NO
+CONFIRMADO:
+NO
+CARÁCTER:
+NNN
+
+DICTAMENES RELACIONADOS
+
+Aplica dictámenes 13915/2013, 54690/2013
+Acción_
+
+FUENTES LEGALES
+
+dto 250/2004 Hacie art/14 bis inc/1,
+
+dto 250/2004 Hacie art/14 bis inc/ﬁn, ley 10336 art/6 inc/3
+
+MATERIA
+
+No  procede  que  en  un  proceso  de  grandes  compras  se  efectúen  invitaciones  fuera
+
+del sistema de información de compras y contrataciones de la Administración ni que
+
+se  excluya  a  un  oferente  sobre  la  base  de  criterios  de  evaluación  no  contemplados
+
+en las bases de licitación.
+
+DOCUMENTO COMPLETO
+
+N° 73.049 Fecha: 23-IX-2014
+
+Se  ha  dirigido  a  esta  Contraloría  General  don  Nicolás  Undurraga  Orrego,  en
+
+representación  de
+
+la  empresa  Asociados  Undurraga
+
+Impresores  Limitada,
+
+reclamando  por  una  serie  de  irregularidades  en  que  habría  incurrido  el  Servicio
+
+Electoral  en  el  proceso  de  adquisición  de  los  productos  que  indica,  a  través  del
+
+convenio  marco  de  servicios  de  impresión,  correspondiente  al  ID  N°  2239-10-LP10,
+
+vulnerando  los  principios  de  estricta  sujeción  a  las  bases,  de  igualdad  de  los
+
+oferentes,  trasparencia  y  publicidad,  por  lo  que  solicita  que,  habiendo  sido  excluida
+
+su  representada  del  referido  concurso,  sin  motivo  justiﬁcado,  se  ordene  ﬁjar  una
+
+indemnización por los conceptos que señala.
+
+Requerido su informe, el Servicio Electoral, en adelante SERVEL, manifestó que en la
+
+adquisición  de  los  productos  se  ajustó  íntegramente  a  lo  dispuesto  por  la  ley  N°
+
+19.886 y a su reglamento contenido en el decreto N° 250, de 2004, del Ministerio
+
+de Hacienda, a través del convenio marco vigente sobre la materia.
+
+Agrega,  que  en  el  proceso  de  grandes  compras  y  luego  de  efectuadas  las
+
+invitaciones a los proveedores adjudicados en el referido convenio, realizó reuniones
+
+informativas en las que comunicó que se reservaba el derecho de “no considerar las
+
+cotizaciones  de  empresas  que  no  hubiesen  cumplido  con  procesos  de  compras
+
+anteriores”, caso en el cual se encontraría la recurrente.
+
+Por  su  parte,  la  Dirección  de  Compras  y  Contratación  Pública  señaló  que  en  el
+
+sistema  de  información  de  ese  organismo  no  hay  registro  de  haberse  invitado  a
+
+algún  proceso  de  grandes  compras  a  los  proveedores  adjudicados  en  el  convenio
+
+marco  sobre  servicios  de  impresión,  durante  el  año  2013,  pese  a  que  la  entidad
+
+compradora  sí  registró  adquisiciones  por  los  montos  que  indica,  superiores  a  1.000
+
+UTM.
+
+Sobre el particular, cabe hacer presente que el inciso primero del artículo 14 bis del
+
+decreto N° 250, de 2004, del Ministerio de Hacienda, que aprobó el reglamento de
+
+la ley N° 19.886, previene que “En las adquisiciones vía convenio marco superiores a
+
+1.000 UTM, las entidades deberán comunicar, a través del Sistema, la intención de
+
+compra a todos los proveedores que tengan adjudicado en Convenio Marco el tipo de
+
+producto requerido.”.
+
+Pues  bien,  de  los  antecedentes  acompañados  por  el  recurrente  y  de  lo  informado
+
+por la Dirección de Compras y Contratación Pública, se advierte que el SERVEL invitó
+
+a  los  proveedores  adjudicados  en  el  convenio  marco  a  través  de  correos
+
+electrónicos, lo que no se ajusta a la norma precitada.
+
+Por  otra  parte,  y  en  lo  que  dice  relación  a  la  facultad  de  considerar  el
+
+comportamiento contractual anterior de la recurrente como criterio para excluirla de
+
+un  proceso  de  grandes  compras,  cabe  hacer  presente  que  el  inciso  ﬁnal  del  citado
+
+artículo  14  bis  prescribe,  en  lo  que  interesa,  que  la  entidad  licitante  seleccionará  la
+
+oferta  más  conveniente  según  el  resultado  del  cuadro  comparativo  que  deberá
+
+confeccionar  sobre  la  base  de  los  criterios  de  evaluación  y  ponderaciones  deﬁnidas
+
+en  las  pautas  de  licitación  del  convenio  marco  respectivo,  en  lo  que  les  sean
+
+aplicables,  cuadro  que  será  adjuntado  a  la  orden  de  compra  que  se  emita  y  servirá
+
+de fundamento de la resolución que apruebe esa transacción.
+
+En armonía con lo anterior, las bases de licitación del convenio marco de la especie,
+
+aprobadas  mediante  la  resolución  N°  70,  de  2011,  de  la  Dirección  de  Compras  y
+
+Contratación  Pública,  en  el  acápite  sobre  compras  mayores  a  1.000  UTM,  dispone
+
+que  “la  entidad  deberá  seleccionar  la  oferta  más  conveniente  según  resultado  del
+
+cuadro  comparativo  que  deberá  confeccionar  sobre  la  base  de  los  criterios  de
+
+evaluación y ponderaciones deﬁnidas en las presentes bases de licitación”.
+
+Como se advierte de las disposiciones recién transcritas, la regla general es que los
+
+procesos  de  selección  para  las  adquisiciones  que  se  realizan  vía  convenio  marco  y
+
+superen las 1.000 UTM deben efectuarse de acuerdo con los criterios de evaluación
+
+y  ponderaciones  previstos  en  el  pliego  de  condiciones  conforme  al  cual  fue
+
+adjudicado dicho convenio.
+
+Ahora, si bien la norma contenida en el referido inciso ﬁnal del artículo 14 bis otorga
+
+cierto margen para que esos criterios y ponderaciones sufran algunos ajustes que se
+
+fundamenten en la necesidad de que la correspondiente evaluación resulte armónica
+
+con  la  naturaleza  y  características  del  bien  y/o  servicio  que  se  pretende  adquirir,
+
+comoquiera  que  previene  que  tal  caliﬁcación  debe  ceñirse  a  aquellos  “en  lo  que  les
+
+sean aplicables”, ello no puede importar que se conﬁgure un sistema de evaluación
+
+sustancialmente  nuevo  y  distinto  al  contemplado  en  el  pliego  de  condiciones  (aplica
+
+criterio contenido en los dictámenes N°s 13.915 y 54.690, de 2013).
+
+Por lo tanto, considerando que las bases de licitación que rigieron el convenio marco
+
+de que se trata no establecieron como un criterio de evaluación el “comportamiento
+
+contractual  anterior”  de  los  oferentes,  no  procedió  que  el  SERVEL  caliﬁcara  a  la
+
+recurrente  sobre  la  base  de  ese  factor,  ni  la  excluyera  del  referido  proceso  de
+
+grandes compras por dicha consideración. En consecuencia, en aquel procedimiento
+
+se  instauró  un  sistema  sustancialmente  diverso  al  contemplado  en  las  referidas
+
+bases,  por  lo  que  no  se  ajustó  a  lo  dispuesto  en  el  artículo  14  bis  del  decreto  N°
+
+250, de 2004.
+
+Finalmente, respecto a la solicitud de la recurrente de ﬁjar una indemnización por los
+
+perjuicios  que  le  habrían  ocasionado  las  irregularidades  denunciadas,  este  Ente
+
+Fiscalizador  cumple  con  señalar  que  de  acuerdo  a  lo  dispuesto  en  el  artículo  6°,
+
+inciso  tercero,  de  su  ley  Orgánica  Constitucional  N°  10.336,  no  le  corresponde
+
+informar  ni  intervenir  en  asuntos  de  materia  litigiosa,  por  lo  que  esa  petición  debe
+
+plantearse ante la autoridad competente.
+
+Por  consiguiente,  el  proceso  de  grandes  compras  realizado  por  el  SERVEL  no  se
+
+ajustó  a  derecho,  de  manera  que  dicho  servicio  deberá  adoptar  las  medidas
+
+tendientes a ajustar sus procesos de compras superiores a 1.000 UTM al artículo 14
+
+bis del decreto N° 250, de 2004.
+
+Asimismo,  esa  repartición  tendrá  que  determinar  las  eventuales  responsabilidades
+
+administrativas  que  hayan  concurrido  en  la  situación  de  que  se  trata,  comunicando
+
+su resultado a esta Contraloría General.
+
+Transcríbase  al  interesado  y  a  la  División  de  Auditoría  Administrativa  de  este
+
+Organismo Contralor.
+
+Saluda atentamente a Ud.
+
+Ramiro Mendoza Zúñiga
+
+Contralor General de la República
+
+
+---
+<!-- ALERTA_VIGENCIA_DTO250 -->
+> [!WARNING] Cita normativa desactualizada
+> Este documento cita el Decreto Supremo N° 250, de 2004, del Ministerio de Hacienda (reglamento de la Ley N° 19.886), que fue **dejado sin efecto** por el **Decreto N° 661, de 2024**, del mismo ministerio, reglamento actualmente vigente. El criterio interpretativo de este dictamen puede seguir siendo aplicable, pero antes de citarlo en un caso actual **verificar la disposición correlativa en el Decreto 661/2024**, ya que la numeración de artículos cambió. Ver `INDICE.md`, sección 'ALERTA DE VIGENCIA NORMATIVA'.
