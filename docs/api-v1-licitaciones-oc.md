@@ -19,8 +19,8 @@ No hay OAuth ni API key estándar. La autenticación usa un ticket (GUID):
 3. El ticket se envía por correo al email registrado
 4. Adjuntar en cada request como parámetro GET: `?ticket=<GUID>`
 
-El ticket no tiene expiración por tiempo documentada; persiste hasta su revocación o hasta
-alcanzar el límite diario de 10.000 requests.
+El ticket no tiene expiración por tiempo documentada; persiste hasta su revocación. Aparte,
+rige un límite diario de 10.000 requests por ticket.
 
 **Nunca hardcodear el valor del ticket en código ni en documentación.** Cargarlo siempre desde
 variable de entorno (`TICKET_MP`) o un secret manager. Ver [`.env.example`](../.env.example).
@@ -310,7 +310,7 @@ en un resultado de autocomplete (ver [`trato-directo.md`](trato-directo.md)).
 
 ## Códigos UNSPSC
 
-Los items de licitaciones y OC usan UNSPSC v7 (United Nations Standard Products and Services Code).
+Los ítems de licitaciones y OC usan UNSPSC v7 (United Nations Standard Products and Services Code).
 
 - `CodigoProducto` - 8 dígitos (ej: `43231602` = Software ERP; `80101601` = Estudios de factibilidad)
 - `CodigoCategoria` - 8 dígitos de la categoría padre
@@ -325,8 +325,9 @@ Los items de licitaciones y OC usan UNSPSC v7 (United Nations Standard Products 
    `scripts/buscar_comprador.py`).
 2. **Campos nulos:** el listado retorna objetos mínimos; siempre consultar por código para
    obtener montos y proveedor.
-3. **Sin paginación:** el listado retorna todos los registros del filtro. Filtrar siempre por
-   `CodigoOrganismo` para reducir volumen.
+3. **Sin paginación:** el listado retorna todos los registros del filtro. Combinar con
+   `CodigoOrganismo` cuando la consulta lo permita; las búsquedas por `fecha` son nacionales y
+   no se acotan por organismo (ver la sección sobre `fecha`).
 4. **Cuota:** cada consulta de detalle consume 1 request.
 5. **HTTPS obligatorio:** la API acepta HTTP pero usar siempre HTTPS en producción.
 

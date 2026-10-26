@@ -57,7 +57,7 @@ que el filtro por organismo (si se necesita) se hace en cliente sobre ese campo.
 case/accent-insensitive) para esto; sin ese filtro, guarda todos los resultados nacionales del
 proveedor.
 
-### Campos relevantes de cada item
+### Campos relevantes de cada ítem
 
 `idFicha` (código de proceso), `nombreProveedor`, `nombre`, `nombreOrganismo`, `estado`,
 `causal`, `fechaPublicacion`, `fechaCreacion`, `montoTotal`, `moneda`, `nombreMoneda`,

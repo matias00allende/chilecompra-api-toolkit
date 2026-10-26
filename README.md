@@ -21,7 +21,7 @@ usan valores ficticios y los scripts reciben el organismo/RUT como parámetro.
 | [`benchmark_precios.py`](scripts/benchmark_precios.py) | API v1 | Compara precios de adjudicación nacionales por código UNSPSC |
 | [`monitor_compra_agil.py`](scripts/monitor_compra_agil.py) | API v2 | Lista y consulta Compras Ágiles de un organismo (por RUT + región) |
 | [`monitor_consulta_mercado.py`](scripts/monitor_consulta_mercado.py) | No documentado | Busca Consultas al Mercado (RFI) de un organismo - token anónimo, sin `TICKET_MP` |
-| [`buscar_tratos_directos_proveedor.py`](scripts/buscar_tratos_directos_proveedor.py) | No documentado | Búsqueda histórica multi-anual de Tratos Directos por proveedor |
+| [`buscar_tratos_directos_proveedor.py`](scripts/buscar_tratos_directos_proveedor.py) | No documentado | Búsqueda histórica de varios años de Tratos Directos por proveedor |
 | [`buscar_licitaciones_proveedor.py`](scripts/buscar_licitaciones_proveedor.py) | No documentado | Búsqueda histórica de Licitaciones Públicas por proveedor |
 | [`descargar_adjuntos_trato_directo.py`](scripts/descargar_adjuntos_trato_directo.py) | No documentado | Descarga cotizaciones/decretos adjuntos de una ficha de Trato Directo |
 | [`leer_ficha_licitacion.py`](scripts/leer_ficha_licitacion.py) | No documentado (Playwright) | Lee el monto real de adjudicación y el Cuadro de Ofertas completo, sin CAPTCHA |
@@ -40,7 +40,7 @@ decisión. Ver [`jurisprudencia-compras-publicas/README.md`](jurisprudencia-comp
 ChileCompra documenta oficialmente la API v1 (Licitaciones/OC) y v2 (Compra Ágil). Pero esa API
 v1 exige el parámetro `fecha` - un día calendario específico, a nivel nacional - para cualquier
 consulta combinada con organismo o proveedor. Esto hace **inviable en la práctica** una búsqueda
-histórica multi-anual (habría que iterar día por día, contra un rate-limit real de ~2
+histórica de varios años (habría que iterar día por día, contra un rate-limit real de ~2
 requests/intento antes de un HTTP 429).
 
 Los buscadores públicos oficiales de Mercado Público (Consulta al Mercado, Trato Directo,
@@ -89,9 +89,10 @@ python scripts/buscar_tratos_directos_proveedor.py --rut 76.123.456-7 --alias mi
 
 ## Alcance ético y legal
 
-Todo lo que consultan estos scripts es información pública, accesible sin autenticación por
-cualquier visitante del sitio de Mercado Público, replicando exactamente las solicitudes HTTP
-que hace el navegador de un usuario anónimo. Ningún script hace bypass de autenticación, evade
+Los scripts que usan mecanismos no documentados consultan información pública, accesible sin
+autenticación por cualquier visitante del sitio de Mercado Público, y replican las solicitudes
+HTTP que hace el navegador de un usuario anónimo. Los que usan la API oficial requieren
+`TICKET_MP`, que se obtiene a nombre de quien los ejecuta. Ningún script hace bypass de autenticación, evade
 controles de acceso, ni automatiza acciones que modifiquen datos (todos son de solo lectura).
 Respetar siempre los límites de tasa documentados en cada backend (ver `docs/`) - varios de
 estos backends no tienen límites publicados explícitamente y se infirieron empíricamente
